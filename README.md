@@ -1,2 +1,2 @@
 # CompareTextsVBA
-VBA Script for comparing texts
+Simple VBA Script for comparing texts  
