@@ -1,8 +1,7 @@
 # CompareTextsVBA
 Simple VBA Script for comparing texts  
 
-# To use it
-## software required - MS Word
+# Software required - MS Word
 Download `Text Comparison.docm`, open and use it.
 
 # Code
